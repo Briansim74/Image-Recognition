@@ -1,5 +1,5 @@
 # Image-Recognition
-Design and Development of an Image Recognition Algorithm that can Predict Images of a Fruit
+Design and Development of an Image Recognition Algorithm that can Predict Images of Fruits
 
 <br/>In this notebook, we will showcase the main functions of our Image Recognition Algorithm. The algorithm leverages a convolutional neural network to first train a model to see how well it could fare on a dataset of fruits. Thereafter, data augmentation tools were utilized to see how well we could improve on a model that we trained ourselves. The model was used on a completely new dataset with fruits to see how well it could recognize it.
 
